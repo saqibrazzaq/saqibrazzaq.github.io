@@ -98,7 +98,7 @@ params:
       url: "https://linkedin.com/in/saqibrazzaq"
 
   editPost:
-    URL: "https://github.com/saqibrazzaq/saqibrazzaq.github.io/tree"
+    URL: "https://github.com/saqibrazzaq/saqibrazzaq.github.io/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
