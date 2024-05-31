@@ -13,5 +13,5 @@ It is an online app that can manage persons and their addresses. Countries and t
 - Blazor (Server)
 - Azure NoSql database for data storage
 - Azure Cosmos SDK
-- Radzen Community for layout and UI
+- Fluent UI for layout, datagrid, form and other UI components
 - Bogus for creating fake persons
