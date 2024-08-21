@@ -29,7 +29,7 @@ languages:
       series: series
     menu:
       main:
-        - name: Projects
+        - name: Hobby Projects
           url: projects
           weight: 5
   
